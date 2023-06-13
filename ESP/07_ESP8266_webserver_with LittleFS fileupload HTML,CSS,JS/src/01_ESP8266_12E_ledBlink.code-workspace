@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "01_ESP8266_12E_ledBlink",
+			"path": "../../01_ESP8266_12E_ledBlink"
+		},
+		{
+			"name": "02_ESP8288_WIFI_AP",
+			"path": "../../02_ESP8288_WIFI_AP"
+		},
+		{
+			"name": "03_ESP8288_WIFI_STA",
+			"path": "../../03_ESP8288_WIFI_STA"
+		},
+		{
+			"name": "04_ESP8266_Wifi_Manager_by_tzapu",
+			"path": "../../04_ESP8266_Wifi_Manager_by_tzapu"
+		},
+		{
+			"name": "05_ESP8266_webserver_pin_control_from_browser",
+			"path": "../../05_ESP8266_webserver_pin_control_from_browser"
+		},
+		{
+			"name": "06_ESP8266_webserver_pin_control_with memfile in .h file",
+			"path": "../../06_ESP8266_webserver_pin_control_with memfile in .h file"
+		},
+		{
+			"name": "07_ESP8266_webserver_with LittleFS fileupload HTML,CSS,JS",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
